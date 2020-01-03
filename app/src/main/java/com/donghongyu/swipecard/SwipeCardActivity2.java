@@ -21,8 +21,11 @@ public class SwipeCardActivity2 extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_swipe_card2);
+
+        // 获取控件对象
         SwipeCardLayout scl_layout = findViewById(R.id.scl_layout);
 
+        // 存储View
         List<View> data = new ArrayList<>();
         View view = new SwipeContentView(this);
         View view2 = new SwipeContentView2(this);
@@ -34,7 +37,9 @@ public class SwipeCardActivity2 extends Activity {
         data.add(view2);
         data.add(view);
 
+        // 设置卡片容器的Adapter
         scl_layout.setAdapter(new SwipeCardLayout.CardAdapter(data));
+        // 设置滑动的回调监听
         scl_layout.setOnSwipeListener(new SwipeCardLayout.OnSwipeListener() {
             @Override
             public void onSwipe(int type) {
