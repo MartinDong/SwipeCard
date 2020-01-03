@@ -1,5 +1,5 @@
 ##### DEMO
-[DEMO](https://github.com/MartinDong/SwipeCard/blob/master/screen/app-debug.apk)
+[DEMO](https://fir.im/w75u)
 
 ##### 效果图
 ![效果图1](https://github.com/MartinDong/SwipeCard/blob/master/screen/device-2020-01-03-113510.png)
