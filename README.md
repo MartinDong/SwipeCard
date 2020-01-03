@@ -1,12 +1,13 @@
-### DEMO
-[DEMO](https://fir.im/w75u)
-![下载链接](https://github.com/MartinDong/SwipeCard/blob/master/screen/demo.png)
+### [DEMO](https://fir.im/w75u)
+![下载链接](https://upload-images.jianshu.io/upload_images/1786025-d2a3ef53125e5cc9.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
 
 ### 效果图
-![效果图1](https://github.com/MartinDong/SwipeCard/blob/master/screen/device-2020-01-03-113510.png)
-![效果图2](https://github.com/MartinDong/SwipeCard/blob/master/screen/device-2020-01-03-113531.png)
-![效果图3](https://github.com/MartinDong/SwipeCard/blob/master/screen/device-2020-01-03-113555.png)
+![效果图1](https://upload-images.jianshu.io/upload_images/1786025-0fe655f57931c5f2.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/720)
 
+![效果图2](https://upload-images.jianshu.io/upload_images/1786025-1d19d43f2ccdb117.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/720)
+
+![效果图3](https://upload-images.jianshu.io/upload_images/1786025-a569a09888a28a86.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/720)
 
 ### 使用说明
 ```xml
