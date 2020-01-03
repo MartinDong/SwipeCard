@@ -1,5 +1,6 @@
 ##### DEMO
 [DEMO](https://fir.im/w75u)
+![下载链接](https://github.com/MartinDong/SwipeCard/blob/master/screen/demo.png)
 
 ##### 效果图
 ![效果图1](https://github.com/MartinDong/SwipeCard/blob/master/screen/device-2020-01-03-113510.png)
